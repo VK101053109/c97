@@ -9,6 +9,7 @@ function save() {
 
     localStorage.setItem("first_name_key", i1);
     localStorage.setItem("last_name_key", i2);
+    localStorage.setItem("a_name_key", ia);
     localStorage.setItem("ip1_name_key", ip1);
     localStorage.setItem("ip2_name_key", ip2);
     localStorage.setItem("ip3_name_key", ip3);
